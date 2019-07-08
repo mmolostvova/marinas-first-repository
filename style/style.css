@@ -1,0 +1,29 @@
+body {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+div {
+   margin: 50px 0;
+   padding: 10px 20px;
+   border-radius: 5px;
+   display: inline-block;
+   background-color: #eb4d4b;
+   color: #ffff;
+   cursor: pointer;
+   font-weight: bold;
+   font-size: 18px;
+   text-transform: uppercase;
+}
+
+div:hover {
+    background-color: #ff7979;
+}
+
+div a {
+    color: #ffff;
+    text-decoration: none;
+    margin: 0;
+}
+
